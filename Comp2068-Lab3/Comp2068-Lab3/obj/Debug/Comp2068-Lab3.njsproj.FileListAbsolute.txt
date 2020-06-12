@@ -1,0 +1,8 @@
+C:\Georgian College\Semester 4\Javascript part 2\repos\COMP2068Lab1\Comp2068-Lab3\Comp2068-Lab3\obj\Debug\Comp2068-Lab3.njsproj.CoreCompileInputs.cache
+C:\Georgian College\Semester 4\Javascript part 2\repos\COMP2068Lab1\Comp2068-Lab3\Comp2068-Lab3\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Georgian College\Semester 4\Javascript part 2\repos\Comp2068-Lab3\Comp2068-Lab3\obj\Debug\Comp2068-Lab3.njsprojAssemblyReference.cache
+C:\Georgian College\Semester 4\Javascript part 2\repos\Comp2068-Lab3\Comp2068-Lab3\obj\Debug\Comp2068-Lab3.njsproj.CoreCompileInputs.cache
+C:\Georgian College\Semester 4\Javascript part 2\repos\Comp2068-Lab3\Comp2068-Lab3\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Georgian College\Semester 4\Javascript part 2\githut repo\Comp2068-Lab3\Comp2068-Lab3\obj\Debug\Comp2068-Lab3.njsprojAssemblyReference.cache
+C:\Georgian College\Semester 4\Javascript part 2\githut repo\Comp2068-Lab3\Comp2068-Lab3\obj\Debug\Comp2068-Lab3.njsproj.CoreCompileInputs.cache
+C:\Georgian College\Semester 4\Javascript part 2\githut repo\Comp2068-Lab3\Comp2068-Lab3\bin\Microsoft.NodejsTools.WebRole.dll
