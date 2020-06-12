@@ -8,19 +8,21 @@ router.get('/', function (req, res) {
 });
 
 router.get('/mom', function (req, res) {
-    var momName = ["Mom"];
+    var momName = ["Agnes"];
     res.render('Mom', { 'name': momName });
 });
 
 router.get('/bro', function (req, res) {
-    var brotherName = ["Brother"];
+    var brotherName = ["Brian"];
     res.render('Bro', { 'name': brotherName });
 });
 
 router.get('/andrew', function (req, res) {
-    var myName = ["Me"];
+    var myName = ["Andrew"];
     res.render('Andrew', { 'name': myName });
 });
+
+
 
 
 module.exports = router;

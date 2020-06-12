@@ -40,6 +40,12 @@
     <Content Include="views\Andrew.pug">
       <SubType>Code</SubType>
     </Content>
+    <Content Include="views\footer.pug">
+      <SubType>Code</SubType>
+    </Content>
+    <Content Include="views\header.pug">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="views\index.pug" />
     <Content Include="views\layout.pug" />
     <Content Include="views\error.pug" />

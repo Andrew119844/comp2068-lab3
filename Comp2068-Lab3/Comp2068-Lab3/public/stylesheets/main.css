@@ -6,3 +6,25 @@ body {
 a {
     color: #00B7FF;
 }
+
+
+li{
+    float:left;
+    margin:20px;
+    list-style-type:none;
+    font-size:18px;
+}
+
+h1{
+    clear:left;
+    font-size:42px;
+    color:red;
+    margin:120px 0 100px 0;
+    padding-bottom:20px;
+    border-bottom:2px solid black;
+
+}
+
+h4{
+    margin-bottom:50px;
+}
